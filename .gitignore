@@ -1,3 +1,9 @@
 *.class
-.vscode
-.tempCodeRunnerFile.py
+.vscode/
+out/
+bin/
+build/
+target/
+tempCodeRunnerFile.*
+*.pyc
+__pycache__/
